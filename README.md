@@ -6,7 +6,7 @@ Projeto simples com o intuito de calcular o IMC do usuário e mostrar o resultad
 
 ## 🔗 Acesso ao projeto
 
-[🔗 Clique aqui para acessar](https://luis-hans.github.io/CalculadoraIMC/o.)
+[🔗 Clique aqui para acessar](https://luis-hans.github.io/CalculadoraIMC/)
 
 ---
 
@@ -66,4 +66,4 @@ Esse projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar 
 
 Feito por Luís Henrique  
 📬 luishenrique.lhans@gmail.com  
-🐙 [github.com/https://github.com/Luis-hans](https://github.com/https://github.com/Luis-hans)
+🐙 https://github.com/Luis-hans
