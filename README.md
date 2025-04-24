@@ -38,10 +38,10 @@ Projeto simples com o intuito de calcular o IMC do usuário e mostrar o resultad
 
 ```bash
 # Clone o repositório
-git clone https://github.com/https://github.com/Luis-hans/calculadora-de-imc.git
+git clone github.com/Luis-hans/CalculadoraIMC
 
 # Acesse a pasta do projeto
-cd calculadora-de-imc
+cd CalculadoraIMC
 
 # Abra o arquivo index.html no navegador
 ```
